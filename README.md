@@ -1,3 +1,5 @@
+A dynamic Youtube clone was built using Reactjs, MaterialUI, and HTML with the help of Rapid API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
